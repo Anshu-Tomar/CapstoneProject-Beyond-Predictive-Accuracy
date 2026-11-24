@@ -1,1 +1,7 @@
-pip install kaggle
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.2
+scikit-learn==1.9.1
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+openpyxl==3.1.5
